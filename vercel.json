@@ -2,13 +2,12 @@
     "builds": [
       {
         "src": "package.json",
-        "use": "@vercel/next"
+        "use": "@vercel/next",
+        "root": "root"  // Replace "out" with the directory where your Next.js build output is located
       }
     ]
   }
 
-  {
-    "root": "portfolio-1"  // Replace "out" with the directory where your Next.js build output is located
-  }
+
   
   
