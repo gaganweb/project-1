@@ -87,7 +87,7 @@ export default function Home() {
           />
         
         <div class="single-project-info">
-            <h2>/ about project</h2>
+            <h2>About Project</h2>
             <p>Chocolate sugar plum candy chocolate apple pie cheesecake sweet. Candy sweet danish lemon drops chupa chups fruitcake chocolate cake brownie jelly beans. Jelly jujubes tootsie roll gummies icing sweet roll lollipop icing. Jelly beans gummi bears pastry candy canes halvah cupcake sweet roll dragée donut jujubes.</p>
         </div>
 
