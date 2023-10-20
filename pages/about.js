@@ -76,7 +76,7 @@ export default function Home() {
 
     <div class="hero-about">
         <div class="hero-content">
-            <h1>Bond Interiors</h1>
+            <h1>Bond</h1>
             <h2>who we are & what we do</h2>
         </div>
     </div> 

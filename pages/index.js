@@ -132,7 +132,7 @@ export default function Home() {
             />
             <div className="works-item-overlay">
               <div className="works-item-info">
-                <h3 className="works-info-title">Bond Interiors</h3>
+                <h3 className="works-info-title">Bond</h3>
                 <p className="works-info-category">branding</p>
               </div>
             </div>
