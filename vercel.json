@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/next"
+      }
+    ]
+  }
+
+  {
+    "root": "portfolio-1"  // Replace "out" with the directory where your Next.js build output is located
+  }
+  
+  
