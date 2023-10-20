@@ -1,6 +1,6 @@
 import { useEffect } from 'react';
 
-function YourComponent() {
+export default function YourComponent() {
   useEffect(() => {
     // This code will only run on the client side
     const openButton = document.querySelector('.nav-button');
