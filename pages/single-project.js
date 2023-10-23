@@ -80,10 +80,10 @@ export default function Home() {
         <a href="#" class="tag">branding</a>
         <h1>Glass & Stone</h1>
         <Image
-            src="/img/single-project/single-project-1.png"
+            src="/img/single-project/img1.jpg"
             alt="Landscape picture" class="img-responsive"
             width={1170}
-            height={600}
+            height={null}
           />
         
         <div class="single-project-info">
@@ -92,10 +92,10 @@ export default function Home() {
         </div>
 
         <Image
-            src="/img/single-project/single-project-1.png"
+            src="/img/single-project/img2.jpg"
             alt="Landscape picture" class="img-responsive"
             width={1170}
-            height={600}
+            height={null}
           />
 
         <div class="single-project-info">
@@ -105,16 +105,16 @@ export default function Home() {
         </div>
         
         <Image
-            src="/img/single-project/single-project-3.png"
+            src="/img/single-project/img3.jpg"
             alt="Landscape picture" class="img-responsive"
             width={585}
-            height={380}
+            height={null}
           />
         <Image
-            src="/img/single-project/single-project-4.png"
+            src="/img/single-project/img4.jpg"
             alt="Landscape picture" class="img-responsive"
             width={585}
-            height={380}
+            height={null}
           />
 
         <div class="clearfix"></div>
@@ -125,10 +125,10 @@ export default function Home() {
         </div>
 
         <Image
-            src="/img/single-project/single-project-1.png"
+            src="/img/single-project/img5.jpg"
             alt="Landscape picture" class="img-responsive"
             width={1170}
-            height={600}
+            height={null}
           />
 
     </div>
