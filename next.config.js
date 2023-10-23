@@ -4,6 +4,6 @@ const nextConfig = {
 }
 
 module.exports = {
-  basePath: 'https://portfolio-1-xi-puce.vercel.app/portfolio-1-xi-puce',  // Update the basePath to match your Vercel subdomain
-  assetPrefix: 'https://portfolio-1-xi-puce.vercel.app/portfolio-1-xi-puce',  // Update the assetPrefix accordingly
+  basePath: '',  // Update the basePath to match your Vercel subdomain
+  assetPrefix: '',  // Update the assetPrefix accordingly
 }
