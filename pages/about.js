@@ -64,7 +64,7 @@ export default function Home() {
               </li>
             </ul>
           </li>
-          <li><Link href="/contact">Contact</Link>
+          <li><Link href="/contact">Contact Page</Link>
           </li>
         </ul>
       </nav>
