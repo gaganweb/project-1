@@ -162,20 +162,6 @@ header{
 	color: #009fff;
 }
 
-.main-menu li ul {
-	display: none;
-	position: absolute;
-	top: 85px;
-	left: 0;
-	z-index: 999;
-	min-width: 190px;	
-	padding: 12px 30px;
-	line-height: 40px;
-	background: #fff;
-	box-shadow: 0 5px 10px rgba(0,0,0,.3);
-	text-align: left;
-}
-
 .main-menu li:hover ul {
 	display: block;
 }
@@ -194,17 +180,17 @@ Home Page
 	background: #fdc;
 	position: relative;
 	width: 100%;
-	height: 600px;
+	height: 358px;
 	z-index: -3;
 }
 
-.hero-content{
-	position: absolute;
-	transform: translate(-50%, -50%);
-	top: 50%;
-	left: 50%;
-	width: 100%;
-	text-align: center;
+.hero-content {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 60%;
+    left: 50%;
+    width: 100%;
+    text-align: center;
 }
 
 .hero-content h1{
