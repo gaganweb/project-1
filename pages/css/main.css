@@ -154,16 +154,6 @@ header{
 	float: right;
 }
 
-.main-menu > li{
-	font-size: 1.2em;
-	font-weight: 400;
-	text-transform: uppercase;
-	letter-spacing: 3.5px;
-	position: relative;
-	float: left;
-	margin-left: 60px;
-}
-
 .main-menu li a{
 	color: #222;
 }
