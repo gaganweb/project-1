@@ -84,7 +84,7 @@ export default function Home() {
 				<div class="container">
 					<div class="contact-us-content">
 						<p>
-							We are always interested in new projects and ideas. If you have an interesting project in mind, do not hesitate to contact us and figure out how we can help.
+						At Bond Interiors, as a leading contracting company, we understand that each project is unique. With over 3 decades of experience in the industry, we have proudly served renowned names across various sectors, delivering exceptional results.
 						</p>
 					</div>
 				</div>
@@ -96,20 +96,25 @@ export default function Home() {
 
 					<div class="contact-item">
 						<span class="ti-location-pin contact-icon"></span>
-						<h3>visit us</h3>
-						<p>Bloom st.123, Bloomtown, UA</p>
+						<h3>Our Address</h3>
+						<p>Saih Shuaib 3, Dubai Industrial City, Dubai, UAE <br>
+              Phone: 04 566 7720<br>
+              Email: Info@bondinteriors.com<br>
+              Business Hours<br>
+              Monday - Friday 7am to 4pm
+              </p>
 					</div>
 
 					<div class="contact-item">
 						<span class="ti-email contact-icon"></span>
 						<h3>email us</h3>
-						<p>bloom-studio@mail.com</p>
+						<p>Info@bondinteriors.com</p>
 					</div>
 
 					<div class="contact-item">
 						<span class="ti-mobile contact-icon"></span>
 						<h3>phone us</h3>
-						<p>+ 3 097 123 456 789</p>
+						<p>+971 4 566 7720</p>
 					</div>
 					
 					<div class="clearfix"></div>
