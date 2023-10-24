@@ -83,7 +83,7 @@ export default function Home() {
       <Link href="/single-project">
           <div className="works-item">
           <Image
-            src="/img/portfolio-items/item-placeholder-1.png"
+            src="/img/portfolio-items/img1.jpg"
             alt="Landscape picture"
             width={500}
             height={500}
@@ -99,7 +99,7 @@ export default function Home() {
         <a href="single-project.html">
           <div className="works-item">
             <img
-              src="/img/portfolio-items/item-placeholder-2.png"
+              src="/img/portfolio-items/img2.jpg"
               alt="..."
             />
             <div className="works-item-overlay">
@@ -113,7 +113,7 @@ export default function Home() {
         <a href="single-project.html">
           <div className="works-item">
             <img
-              src="/img/portfolio-items/item-placeholder-3.png"
+              src="/img/portfolio-items/img3.jpg"
               alt="..."
             />
             <div className="works-item-overlay">
@@ -127,7 +127,7 @@ export default function Home() {
         <a href="single-project.html">
           <div className="works-item">
             <img
-              src="/img/portfolio-items/item-placeholder-4.png"
+              src="/img/portfolio-items/img4.jpg"
               alt="..."
             />
             <div className="works-item-overlay">
@@ -141,7 +141,7 @@ export default function Home() {
         <a href="single-project.html">
           <div className="works-item">
             <img
-              src="/img/portfolio-items/item-placeholder-1.png"
+              src="/img/portfolio-items/img5.jpg"
               alt="..."
             />
             <div className="works-item-overlay">
@@ -155,7 +155,7 @@ export default function Home() {
         <a href="single-project.html">
           <div className="works-item">
             <img
-              src="/img/portfolio-items/item-placeholder-2.png"
+              src="/img/portfolio-items/img6.jpg"
               alt="..."
             />
             <div className="works-item-overlay">
@@ -169,7 +169,7 @@ export default function Home() {
         <a href="single-project.html">
           <div className="works-item">
             <img
-              src="/img/portfolio-items/item-placeholder-3.png"
+              src="/img/portfolio-items/img1.jpg"
               alt="..."
             />
             <div className="works-item-overlay">
@@ -183,7 +183,7 @@ export default function Home() {
         <a href="single-project.html">
           <div className="works-item">
             <img
-              src="/img/portfolio-items/item-placeholder-4.png"
+              src="/img/portfolio-items/img2.jpg"
               alt="..."
             />
             <div className="works-item-overlay">
