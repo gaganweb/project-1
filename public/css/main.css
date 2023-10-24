@@ -264,7 +264,7 @@ About & Contact
 }
 
 .services, .contacts{
-	background: #99d9ff;
+	background: #000000;
 	width: 100%;
 	padding: 150px 0;
 }
@@ -279,6 +279,7 @@ About & Contact
 	text-align: center;
 	padding-right: 15px;
   	padding-left: 15px;
+	color: #ffffff
 }
 
 .services-icon, .contact-icon{
