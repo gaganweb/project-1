@@ -80,7 +80,7 @@ a{
 
 a:hover{
 	text-decoration: none;
-	color: #009fff;
+	color: #4a6c33;
 }
 
 .clearfix{
@@ -137,7 +137,7 @@ header{
 }
 
 .ti-close:hover{
-	color: #009fff;
+	color: #4a6c33;
 }
 
 .main-menu{
@@ -163,17 +163,17 @@ header{
 }
 
 .main-menu li ul {
-	display: none;
-	position: absolute;
-	top: 85px;
-	left: 0;
-	z-index: 999;
-	min-width: 190px;	
-	padding: 12px 30px;
-	line-height: 40px;
-	background: #fff;
-	box-shadow: 0 5px 10px rgba(0,0,0,.3);
-	text-align: left;
+    display: none;
+    position: absolute;
+    top: 85px;
+    left: 0;
+    z-index: 999;
+    min-width: 300px;
+    padding: 12px 30px;
+    line-height: 40px;
+    background: #fff;
+    box-shadow: 0 5px 10px rgba(0,0,0,.3);
+    text-align: left;
 }
 
 .main-menu li:hover ul {
@@ -392,7 +392,7 @@ Works
 }
 
 .works-info-category{
-	color: #009fff;
+	color: #4a6c33;
 	font-size: 1.2em;
 	font-weight: 500;
 	text-transform: uppercase;
@@ -416,7 +416,7 @@ Single Project
 }
 
 .tag{
-	color: #009fff;
+	color: #4a6c33;
 	font-size: 1.2em;
 	font-weight: 400;
 	text-transform: uppercase;
@@ -440,7 +440,7 @@ Single Project
 }
 
 .single-project-info h2{
-	color: #009fff;
+	color: #4a6c33;
 	font-size: 1.1em;
 	font-weight: 600;
 	text-align: left;
@@ -501,5 +501,5 @@ footer{
 }
 
 .social-links li a:hover{
-	color: #009fff;
+	color: #4a6c33;
 }
