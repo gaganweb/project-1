@@ -148,11 +148,6 @@ Monday - Friday 7am to 4pm
               <i className="fa fa-linkedin" />
             </a>
           </li>
-          <li>
-            <a href="#">
-              <i className="fa fa-instagram" />
-            </a>
-          </li>
         </ul>
       </div>
     </div>
