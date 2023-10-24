@@ -204,7 +204,7 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
             <Image
-                src="/img/portfolio-items/img7.jpg"
+                src="/img/portfolio-items/img4.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
