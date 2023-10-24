@@ -84,7 +84,7 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
             <Image
-                src="/img/portfolio-items/item-placeholder-1.png"
+                src="/img/portfolio-items/img1.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
@@ -92,8 +92,8 @@ export default function Home() {
             
                 <div class="works-item-overlay">
                     <div class="works-item-info">
-                        <h3 class="works-info-title">bunch magazine</h3>
-                        <p class="works-info-category">print</p>
+                        <h3 class="works-info-title">Project Name</h3>
+                        <p class="works-info-category">Title</p>
                     </div>
                 </div>
             </div> 
@@ -102,15 +102,15 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
             <Image
-                src="/img/portfolio-items/item-placeholder-2.png"
+                src="/img/portfolio-items/img2.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
             /> 
                 <div class="works-item-overlay">
-                    <div class="works-item-info">
-                        <h3 class="works-info-title">true blue</h3>
-                        <p class="works-info-category">photoraphy</p>
+                <div class="works-item-info">
+                        <h3 class="works-info-title">Project Name</h3>
+                        <p class="works-info-category">Title</p>
                     </div>
                 </div>
             </div> 
@@ -119,15 +119,15 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
             <Image
-                src="/img/portfolio-items/item-placeholder-3.png"
+                src="/img/portfolio-items/img3.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
             /> 
                 <div class="works-item-overlay">
-                    <div class="works-item-info">
-                        <h3 class="works-info-title">mood magazine</h3>
-                        <p class="works-info-category">print</p>
+                <div class="works-item-info">
+                        <h3 class="works-info-title">Project Name</h3>
+                        <p class="works-info-category">Title</p>
                     </div>
                 </div>
             </div> 
@@ -136,15 +136,15 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
             <Image
-                src="/img/portfolio-items/item-placeholder-4.png"
+                src="/img/portfolio-items/img4.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
             /> 
                 <div class="works-item-overlay">
-                    <div class="works-item-info">
-                        <h3 class="works-info-title">bloom agency</h3>
-                        <p class="works-info-category">branding</p>
+                <div class="works-item-info">
+                        <h3 class="works-info-title">Project Name</h3>
+                        <p class="works-info-category">Title</p>
                     </div>
                 </div>
             </div> 
@@ -153,15 +153,15 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
             <Image
-                src="/img/portfolio-items/item-placeholder-1.png"
+                src="/img/portfolio-items/img5.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
             /> 
                 <div class="works-item-overlay">
-                    <div class="works-item-info">
-                        <h3 class="works-info-title">mason jar</h3>
-                        <p class="works-info-category">packaging</p>
+                <div class="works-item-info">
+                        <h3 class="works-info-title">Project Name</h3>
+                        <p class="works-info-category">Title</p>
                     </div>
                 </div>
             </div> 
@@ -170,15 +170,15 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
             <Image
-                src="/img/portfolio-items/item-placeholder-2.png"
+                src="/img/portfolio-items/img5.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
             /> 
                 <div class="works-item-overlay">
-                    <div class="works-item-info">
-                        <h3 class="works-info-title">vinyl record</h3>
-                        <p class="works-info-category">design</p>
+                <div class="works-item-info">
+                        <h3 class="works-info-title">Project Name</h3>
+                        <p class="works-info-category">Title</p>
                     </div>
                 </div>
             </div> 
@@ -187,15 +187,15 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
                 <Image
-                src="/img/portfolio-items/item-placeholder-3.png"
+                src="/img/portfolio-items/img6.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
             /> 
                 <div class="works-item-overlay">
-                    <div class="works-item-info">
-                        <h3 class="works-info-title">wine bottle</h3>
-                        <p class="works-info-category">packaging</p>
+                <div class="works-item-info">
+                        <h3 class="works-info-title">Project Name</h3>
+                        <p class="works-info-category">Title</p>
                     </div>
                 </div>
             </div> 
@@ -204,15 +204,15 @@ export default function Home() {
         <a href="single-project.html">
             <div class="works-item">
             <Image
-                src="/img/portfolio-items/item-placeholder-4.png"
+                src="/img/portfolio-items/img7.jpg"
                 alt="Landscape picture" class="img-responsive"
                 width={759}
                 height={443}
             /> 
                 <div class="works-item-overlay">
-                    <div class="works-item-info">
-                        <h3 class="works-info-title">play me</h3>
-                        <p class="works-info-category">development</p>
+                <div class="works-item-info">
+                        <h3 class="works-info-title">Project Name</h3>
+                        <p class="works-info-category">Title</p>
                     </div>
                 </div>
             </div> 
