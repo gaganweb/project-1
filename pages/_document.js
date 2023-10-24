@@ -10,6 +10,7 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="./css/font-awesome.min.css" />
           <link rel="stylesheet" href="./css/main.css" />
           <link rel="stylesheet" href="./css/responsive.css" />
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=open+sans:wght@300;400;600;700&display=swap" />
         </Head>
         <body>
           <Main />
