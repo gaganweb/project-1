@@ -155,11 +155,11 @@ header{
 }
 
 .main-menu li a{
-	color: #222;
+	color: #000000;
 }
 
 .main-menu li a:hover{
-	color: #009fff;
+	color: #4a6c33;
 }
 
 .main-menu li ul {
@@ -184,6 +184,7 @@ header{
 	font-size: .9em;
 	letter-spacing: 2px;
 }
+
 
 /*-----------------------------------------------------
 Home Page
