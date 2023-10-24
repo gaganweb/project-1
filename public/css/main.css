@@ -215,10 +215,11 @@ Home Page
 	line-height: 1.7;
 	text-transform: uppercase;
 	padding-bottom:30px;
+	color: #ffffff
 }
 
 .hero-content h2{
-	color: #252525;
+	color: #ffffff;
 	font-size: 1.9em;
 	font-weight: 300;
 	letter-spacing: 5px;
