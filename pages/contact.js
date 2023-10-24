@@ -84,7 +84,7 @@ export default function Home() {
 				<div class="container">
 					<div class="contact-us-content">
 						<p>
-						At Bond Interiors, as a leading contracting company, we understand that each project is unique. With over 3 decades of experience in the industry, we have proudly served renowned names across various sectors, delivering exceptional results.
+            At Bond Interiors, as a leading contracting company, we understand that each project is unique. With over 3 decades of experience in the industry, we have proudly served renowned names across various sectors, delivering exceptional results.
 						</p>
 					</div>
 				</div>
@@ -97,12 +97,12 @@ export default function Home() {
 					<div class="contact-item">
 						<span class="ti-location-pin contact-icon"></span>
 						<h3>Our Address</h3>
-						<p>Saih Shuaib 3, Dubai Industrial City, Dubai, UAE <br>
-              Phone: 04 566 7720<br>
-              Email: Info@bondinteriors.com<br>
-              Business Hours<br>
-              Monday - Friday 7am to 4pm
-              </p>
+						<p>Saih Shuaib 3, Dubai Industrial City, Dubai, UAE
+Phone: 04 566 7720
+Email: Info@bondinteriors.com
+Business Hours
+Monday - Friday 7am to 4pm
+</p>
 					</div>
 
 					<div class="contact-item">
