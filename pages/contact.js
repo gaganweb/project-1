@@ -130,7 +130,7 @@ Monday - Friday 7am to 4pm
     <div className="footer-content">
       <div className="container">
         <p className="copyright">
-          <span className="fa fa-copyright" /> All Rights Reserved
+          <span className="fa fa-copyright" /> Bond Interiors
         </p>
         <ul className="social-links">
           <li>
