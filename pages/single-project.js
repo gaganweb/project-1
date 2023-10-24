@@ -83,7 +83,7 @@ export default function Home() {
             src="/img/single-project/img1.jpg"
             alt="Landscape picture" class="img-responsive"
             width={1170}
-            height={780}
+            height={null}
           />
         
         <div class="single-project-info">
@@ -95,7 +95,7 @@ export default function Home() {
             src="/img/single-project/img2.jpg"
             alt="Landscape picture" class="img-responsive"
             width={1170}
-            height={780}
+            height={null}
           />
 
         <div class="single-project-info">
@@ -108,13 +108,13 @@ export default function Home() {
             src="/img/single-project/img3.jpg"
             alt="Landscape picture" class="img-responsive"
             width={585}
-            height={380}
+            height={null}
           />
         <Image
             src="/img/single-project/img4.jpg"
             alt="Landscape picture" class="img-responsive"
             width={585}
-            height={380}
+            height={null}
           />
 
         <div class="clearfix"></div>
@@ -128,7 +128,7 @@ export default function Home() {
             src="/img/single-project/img5.jpg"
             alt="Landscape picture" class="img-responsive"
             width={1170}
-            height={780}
+            height={null}
           />
 
     </div>
