@@ -134,23 +134,18 @@ Monday - Friday 7am to 4pm
         </p>
         <ul className="social-links">
           <li>
-            <a href="#">
+            <a href="https://www.facebook.com/people/Bond-Interiors/100053255392607/">
               <i className="fa fa-facebook" />
             </a>
           </li>
           <li>
-            <a href="#">
-              <i className="fa fa-twitter" />
+            <a href="https://www.instagram.com/bondinteriors/">
+              <i className="fa fa-instagram" />
             </a>
           </li>
           <li>
-            <a href="#">
-              <i className="fa fa-behance" />
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fa fa-dribbble" />
+            <a href="https://www.linkedin.com/company/bond-interiors/">
+              <i className="fa fa-linkedin" />
             </a>
           </li>
           <li>
