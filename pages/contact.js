@@ -97,12 +97,11 @@ export default function Home() {
 					<div class="contact-item">
 						<span class="ti-location-pin contact-icon"></span>
 						<h3>Our Address</h3>
-						<p>Saih Shuaib 3, Dubai Industrial City, Dubai, UAE
-Phone: 04 566 7720</p>
+						<p>Saih Shuaib 3, Dubai Industrial City, Dubai, UAE</p>
+<p>Phone: 04 566 7720</p>
 <p>Email: Info@bondinteriors.com</p>
 <p>Business Hours:
-Monday - Friday 7am to 4pm
-</p>
+Monday - Friday </p><p>7am to 4pm</p>
 					</div>
 
 					<div class="contact-item">
