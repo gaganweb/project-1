@@ -80,9 +80,9 @@ export default function Home() {
         <a href="#" class="tag">branding</a>
         <h1>Glass & Stone</h1>
         <Image
-            src="/img/single-project/img1.jpg"
+            src="/img/single-project/img1a.jpg"
             alt="Landscape picture" class="img-responsive"
-            width={1170}
+            width={2400}
             height={null}
           />
         
