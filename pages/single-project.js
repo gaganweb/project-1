@@ -94,7 +94,7 @@ export default function Home() {
         <Image
             src="/img/single-project/img2.jpg"
             alt="Landscape picture" class="img-responsive"
-            width={1170}
+            width={2400}
             height={null}
           />
 
