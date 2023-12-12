@@ -97,9 +97,9 @@ export default function Home() {
 					<div class="contact-item">
 						<span class="ti-location-pin contact-icon"></span>
 						<h3>Our Address</h3>
-						<p>Saih Shuaib 3, Dubai Industrial City, Dubai, UAE</p>
-<p>Phone: 04 566 7720</p>
-<p>Email: Info@bondinteriors.com</p>
+						<p>Dubai, UAE</p>
+<p>Phone: 04</p>
+<p>Email: Info@company</p>
 <p>Business Hours:
 Monday - Friday </p><p>7am to 4pm</p>
 					</div>
@@ -129,21 +129,21 @@ Monday - Friday </p><p>7am to 4pm</p>
     <div className="footer-content">
       <div className="container">
         <p className="copyright">
-          <span className="fa fa-copyright" /> Bond Interiors
+          <span className="fa fa-copyright" /> Company Name
         </p>
         <ul className="social-links">
           <li>
-            <a href="https://www.facebook.com/people/Bond-Interiors/100053255392607/">
+            <a href="https://www.facebook.com/">
               <i className="fa fa-facebook" />
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/bondinteriors/">
+            <a href="https://www.instagram.com/">
               <i className="fa fa-instagram" />
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/company/bond-interiors/">
+            <a href="https://www.linkedin.com/">
               <i className="fa fa-linkedin" />
             </a>
           </li>
