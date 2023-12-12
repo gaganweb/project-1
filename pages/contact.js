@@ -107,13 +107,13 @@ Monday - Friday </p><p>7am to 4pm</p>
 					<div class="contact-item">
 						<span class="ti-email contact-icon"></span>
 						<h3>email us</h3>
-						<p>Info@bondinteriors.com</p>
+						<p>info@company.com</p>
 					</div>
 
 					<div class="contact-item">
 						<span class="ti-mobile contact-icon"></span>
 						<h3>phone us</h3>
-						<p>+971 4 566 7720</p>
+						<p>+971 4 0000000</p>
 					</div>
 					
 					<div class="clearfix"></div>
