@@ -85,7 +85,7 @@ export default function Home() {
         <div class="about-us">
             <span class="ti-crown about-us-icon"></span>
             <p class="about-us-info">
-                Bond Interiors, a company that designs and builds strong, remarkable projects. Explore the services we provide and our featured works.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </p>
             </div>
         </div>

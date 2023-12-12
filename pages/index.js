@@ -202,7 +202,7 @@ export default function Home() {
     <div className="footer-content">
       <div className="container">
         <p className="copyright">
-          <span className="fa fa-copyright" /> Bond Interiors
+          <span className="fa fa-copyright" />Company Name
         </p>
         <ul className="social-links">
           <li>
