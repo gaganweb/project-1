@@ -232,17 +232,17 @@ export default function Home() {
         </p>
         <ul className="social-links">
           <li>
-            <a href="https://www.facebook.com/people/Bond-Interiors/100053255392607/">
+            <a href="https://www.facebook.com/">
               <i className="fa fa-facebook" />
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/bondinteriors/">
+            <a href="https://www.instagram.com/">
               <i className="fa fa-instagram" />
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/company/bond-interiors/">
+            <a href="https://www.linkedin.com/">
               <i className="fa fa-linkedin" />
             </a>
           </li>
