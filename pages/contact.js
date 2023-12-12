@@ -75,7 +75,7 @@ export default function Home() {
 
 			<div class="hero-contact">
 				<div class="hero-content">
-					<h1>Bond</h1>
+					<h1>Name</h1>
 					<h2>get in touch with us</h2>
 				</div>
 			</div> 
